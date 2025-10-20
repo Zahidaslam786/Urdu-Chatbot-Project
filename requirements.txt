@@ -1,0 +1,7 @@
+torch
+pandas
+nltk
+rouge-score
+sentencepiece
+gradio
+numpy
